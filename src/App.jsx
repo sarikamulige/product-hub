@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import productsData from "./productsData";
+import productsData from "./ProductsData";
 
 export default function App() {
   const [search, setSearch] = useState("");

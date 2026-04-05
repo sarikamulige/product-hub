@@ -74,7 +74,7 @@ const productsData = [
       rating: { rate: 4.6, count: 75 }
     },
     {
-      id: 7,
+      id: 8,
       title: "sunscreen",
       description: "lakme  long lasting sunscreen",
       price: 199,
@@ -87,7 +87,7 @@ const productsData = [
       rating: { rate: 4.6, count: 75 }
     },
     {
-      id: 8,
+      id: 9,
       title: "Lipstick",
       description: "premium matte lipstick that gildes on easily",
       price: 199,
@@ -101,7 +101,7 @@ const productsData = [
       rating: { rate: 4.6, count: 75 }
     },
     {
-      id: 9,
+      id: 10,
       title: "Women's Oversized t-shirt",
       description: "“Comfortable oversized t-shirt for a relaxed and stylish everyday look",
       price: 899,
