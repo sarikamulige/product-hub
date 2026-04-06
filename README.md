@@ -21,6 +21,10 @@ A **React.js + Tailwind CSS** project showcasing a searchable product catalog. U
 - **JavaScript (ES6)** – Front-end scripting
 - **Node.js & npm** – Package management
 - **Vite** – Dev server and build tool
+- ## How to run this project
+
+1. npm install
+2. npm run dev
 
 ---
 
